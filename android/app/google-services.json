@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1088170124772",
+    "project_id": "catalift-task",
+    "storage_bucket": "catalift-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088170124772:android:4fdf3f656af3d8fe5fd3f1",
+        "android_client_info": {
+          "package_name": "com.example.catalift_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088170124772-akhoo9rp59brdn09ca86fj6102h95ik5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.catalift_task",
+            "certificate_hash": "0ac77417893ffd4a526466c849c0d6e40f5ae357"
+          }
+        },
+        {
+          "client_id": "1088170124772-m9ks5jsq2uu5ibiulmfbe66jqs68dhgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3y71Vg7IrQFpYlJbRb23rwUlCAOnKZk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088170124772-m9ks5jsq2uu5ibiulmfbe66jqs68dhgg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1088170124772-82tfk2mfjr4jfpu1vj3h5kqjus99jqpu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cataliftTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

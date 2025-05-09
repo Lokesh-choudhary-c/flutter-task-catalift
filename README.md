@@ -1,63 +1,16 @@
-# Catalift Developer Task
+# catalift_task
 
-Welcome to the official task repository for candidates applying to join the Catalift development team.
+A new Flutter project.
 
-## 🎯 Task Objective
+## Getting Started
 
-Your task is to **replicate a mobile app screen** based on the design files we’ve shared with you via email. This will help us assess your development skills, code structure, and UI implementation capabilities.
+This project is a starting point for a Flutter application.
 
----
+A few resources to get you started if this is your first Flutter project:
 
-## 📬 Design Assets
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-All required design assets (PNG/SVG) have been sent to your registered email address. Please check your inbox for a mail from **techcatalift@gmail.com** with the subject line:  
-**"Congratulations – Move Forward with Catalift's Developer Task!"**
-
----
-
-## ✅ What You Need to Do
-
-1. **Fork this repository** to your own GitHub account.
-2. Create a new branch (optional but preferred):  
-   `git checkout -b your-name-task`
-3. Build the screen using Flutter. (If you prefer to build using different tech stack and not flutter immediately mail techcatalift@gmail.com with subject as "change task repo")
-4. Maintain a clean and modular code structure.
-5. Commit and push your code to your forked repository.
-6. Submit the link to your public fork using the official submission form.
-
----
-
-## 💡 Evaluation Criteria
-
-- Clean, well-organized code  
-- Accuracy and responsiveness of layout  
-- Sensible use of components and naming  
-- Design improvements (also heavily weighted: only for those who opted for dev+design)  
-
----
-
-## ⚠️ Important Notes
-
-- Submit your task within **7 days** of receiving this link.
-- Your forked repository must be **public** for review.
-
----
-
-## 📩 Need Help?
-
-If you face any issues or have questions, feel free to reach us at:  
-**techcatalift@gmail.com**
-
-We look forward to reviewing your work. Best of luck!
-
-
-About Catalift: 
-Catalift is a mobile-first platform that connects engineering students with alumni mentors for career guidance, emotional support, and real-world skill development. It offers:
-
-1-on-1 mentorship
-
-Career-focused cohorts and projects
-
-Alumni-led courses
-
-A supportive community for aspiring engineers
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
